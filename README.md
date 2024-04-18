@@ -1,4 +1,4 @@
-# Algo_Trading
+## Algorithmic Trading Using Deep Reinforcement Learning
 
 Algorithmic trading is the automated process of buying and selling shares on the stock market. This project presents a deep reinforcement learning approach to algorithmic trading. To tackle this problem, I have developed an automated stock market trading system which uses a Deep Q-Network trader to buy, sell or hold stocks. For this system, I  have collected stock market data for twenty companies from January 3rd, 2017 till January 6th, 2021. The automated algorithmic trader will predict which action should be taken during each point in time.
 
