@@ -20,4 +20,4 @@ Algorithmic trading is the automated process of buying and selling shares on the
 * In Deep Q-Learning, the state is fed into the neural network and it returns the Q-table values.
 * For this system, the agent picks each action based on the epsilon greedy policy.
 
-  Reward = Reward + [discount_factor * estimate of optimal future value]
+  > Reward = Reward + [discount_factor * estimate of optimal future value]
